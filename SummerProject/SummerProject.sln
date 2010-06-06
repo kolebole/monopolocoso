@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SummerProject", "SummerProject\SummerProject\SummerProject.csproj", "{0220AEC0-1ADD-48E0-A1AC-F21D3A692DC2}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "SummerProjectContent", "SummerProject\SummerProjectContent\SummerProjectContent.contentproj", "{69F0E504-B011-40F4-9FD6-4BD03AAB9415}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0220AEC0-1ADD-48E0-A1AC-F21D3A692DC2}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{0220AEC0-1ADD-48E0-A1AC-F21D3A692DC2}.Debug|x86.ActiveCfg = Debug|x86
+		{0220AEC0-1ADD-48E0-A1AC-F21D3A692DC2}.Debug|x86.Build.0 = Debug|x86
+		{0220AEC0-1ADD-48E0-A1AC-F21D3A692DC2}.Release|Any CPU.ActiveCfg = Release|x86
+		{0220AEC0-1ADD-48E0-A1AC-F21D3A692DC2}.Release|x86.ActiveCfg = Release|x86
+		{0220AEC0-1ADD-48E0-A1AC-F21D3A692DC2}.Release|x86.Build.0 = Release|x86
+		{69F0E504-B011-40F4-9FD6-4BD03AAB9415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69F0E504-B011-40F4-9FD6-4BD03AAB9415}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{69F0E504-B011-40F4-9FD6-4BD03AAB9415}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{69F0E504-B011-40F4-9FD6-4BD03AAB9415}.Release|x86.ActiveCfg = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
